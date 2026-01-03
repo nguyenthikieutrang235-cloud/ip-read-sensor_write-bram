@@ -55,6 +55,6 @@ sleep (5);
 
     xil_printf("\r\n=== TEST DONE ===\r\n");
 
-    while (1);   // stop here
+    while (1);  
     return 0;
 }
